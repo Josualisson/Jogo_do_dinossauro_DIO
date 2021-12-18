@@ -1,2 +1,7 @@
-# Jogo_do_dinossauro_DIO
-Jogo do Dinossauro, js, CSS, aula da DIO
+# Jogo do dinossauro 
+## Recriando jogo do dinossauro do Google Chrome quando o navegador está sem internet.
+#### Tecnologias usadas:
+ - Html
+ - Css
+ - Javascript 
+ 
